@@ -1,0 +1,22 @@
+{
+  "name": "laravel-elixir-bless",
+  "version": "1.0.0",
+  "description": "A Laravel Elixir extension for Bless support",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "bless",
+    "gulp"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "colyn.brown@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bless": "^3.0.1",
+    "laravel-elixir": "^4.2.0"
+  }
+}
